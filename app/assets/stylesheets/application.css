@@ -13,3 +13,26 @@
  *= require_self
  *= require css/bootstrap.min
  */
+
+.session-menu {
+  background-color: black;
+  height: 50px;
+}
+
+.not-login {
+  padding-right: 30px;
+  padding-top: 14px;
+}
+
+.logged_in {
+  padding-top: 5px;
+  padding-right: 20px;
+}
+
+.navbar-right {
+  margin-right: 0!important;
+}
+.navbar-right a {
+  color: white;
+}
+
